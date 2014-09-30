@@ -4,7 +4,7 @@ Xanthic
 An ANTLR4 based syntax highlighter written in Java.
 
 ### Goals
-The goal of this project is to provide a syntax highlighting for [RichTextFX](https://github.com/TomasMikula/RichTextFX/) similar to [pygments](pygments.org). 
+The goal of this project is to provide a syntax highlighting for [RichTextFX](https://github.com/TomasMikula/RichTextFX/) similar to [pygments](http://pygments.org). 
 
 Features slated for the first version are:
 * A RichTextFX formatter
