@@ -60,3 +60,9 @@ compileJava {
 clean {
     delete antlr.destinationDir
 }
+
+javafx{
+    appID 'SyntaxArea'
+    appName 'SyntaxArea'
+    mainClass 'xanthic.examples.SyntaxAreaExample'
+}
