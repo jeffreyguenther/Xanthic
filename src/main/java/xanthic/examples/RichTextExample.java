@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2012-2014 Jeffrey Guenther
+ * Copyright (c) 2014 Jeffrey Guenther
  *
  * Permission is hereby granted, free of charge, to any person obtaining
  * a copy of this software  and associated documentation files (the
@@ -71,7 +71,7 @@ public class RichTextExample extends Application {
                 "end");
 
         Scene scene = new Scene(new StackPane(codeArea), 600, 400);
-        scene.getStylesheets().add(getClass().getResource("syntax.css").toExternalForm());
+        scene.getStylesheets().add(getClass().getResource("shiro-syntax.css").toExternalForm());
         primaryStage.setTitle("Shiro Playground");
         primaryStage.setScene(scene);
         primaryStage.show();
